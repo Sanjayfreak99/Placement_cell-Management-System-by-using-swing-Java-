@@ -18,3 +18,4 @@
 <li>Syncing your updates online</li>
 <li>backing up database</li>
 </ul>
+<p style="text-align:center">-----------</p>
